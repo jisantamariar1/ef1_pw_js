@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Juego />
+    <Juego url="https://dummyimage.com/250x250"/>
   </div>
 </template>
 
