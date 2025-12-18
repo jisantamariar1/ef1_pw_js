@@ -127,6 +127,7 @@ button{
     font-size: 50px;
     padding-left: 100px;
     padding-right: 100px;
+    border: 5px solid black;
 }
 .perdio{
     text-align: center;
